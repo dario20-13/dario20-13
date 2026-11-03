@@ -18,47 +18,58 @@ y aprendiendo algo nuevo en cada proyecto.
 <br>
 
 <a href="https://dario20-13.github.io/Comandos_basicos/">
-  <img src="https://img.shields.io/badge/🌐_MI_SITIO_WEB-2563EB?style=for-the-badge" alt="Mi sitio web" />
+  <img
+    src="https://img.shields.io/badge/MI_SITIO_WEB-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Visitar mi sitio web"
+  />
 </a>
 &nbsp;
 <a href="https://github.com/dario20-13?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_REPOSITORIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios" />
+  <img
+    src="https://img.shields.io/badge/VER_REPOSITORIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explorar mis repositorios"
+  />
 </a>
 
 </div>
 
 <br>
 
-<!-- PRESENTACIÓN -->
+<!-- SOBRE MÍ -->
 
 ## ✦ Conoce a Joel
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### 👋 ¡Bienvenido a mi espacio!
+<h3>👋 ¡Bienvenido a mi espacio!</h3>
 
-Soy **Joel Chimborazo** y estoy desarrollando mis habilidades en programación mediante la práctica.
+<p>
+Soy <strong>Joel Chimborazo</strong> y estoy desarrollando mis
+habilidades en programación mediante la práctica.
+</p>
 
-Me interesa comprender cómo una idea se convierte en una aplicación: desde la interfaz que ve el usuario hasta los servicios y los datos que la hacen funcionar.
+<p>
+Me interesa comprender cómo una idea se convierte en una aplicación:
+desde la interfaz que ve el usuario hasta los servicios y los datos
+que la hacen funcionar.
+</p>
 
-Aquí comparto **mi aprendizaje, mi código y mi evolución**.
+<p>
+Aquí comparto <strong>mi aprendizaje, mi código y mi evolución</strong>.
+</p>
 
 </td>
 <td width="45%" valign="top">
 
-### ⚡ En este momento
+<h3>⚡ En este momento</h3>
 
-🔹 **Construyendo con:** C# y .NET.
-
-🔹 **Explorando:** React e integración de APIs.
-
-🔹 **Practicando:** desarrollo web y bases de datos.
-
-🔹 **Mejorando:** organización del código y documentación.
-
-🔹 **Mi enfoque:** aprender, aplicar y seguir avanzando.
+<p>🔹 <strong>Construyendo con:</strong> C# y .NET.</p>
+<p>🔹 <strong>Explorando:</strong> React e integración de APIs.</p>
+<p>🔹 <strong>Practicando:</strong> desarrollo web y bases de datos.</p>
+<p>🔹 <strong>Mejorando:</strong> organización del código y documentación.</p>
+<p>🔹 <strong>Mi enfoque:</strong> aprender, aplicar y seguir avanzando.</p>
 
 </td>
 </tr>
@@ -74,59 +85,76 @@ Aquí comparto **mi aprendizaje, mi código y mi evolución**.
   Tecnologías que estoy utilizando y explorando en mis proyectos.
 </p>
 
-<br>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
-### ⚙️ Backend y datos
+<h3>⚙️ Backend y datos</h3>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# y .NET" />
+<img
+  src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"
+  height="48"
+  alt="C# y .NET"
+/>
 
-<br><br>
-
-C# · ASP.NET Core  
-Entity Framework Core · SQL Server  
+<p>
+C# · ASP.NET Core<br>
+Entity Framework Core · SQL Server<br>
 APIs REST · Swagger
+</p>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
-### 🎨 Interfaces web
+<h3>🎨 Interfaces web</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS y Bootstrap" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark"
+  height="48"
+  alt="HTML, CSS y Bootstrap"
+/>
 
-<br><br>
-
-HTML · CSS · Bootstrap  
-Estructura, estilos e interfaces adaptables
+<p>
+HTML · CSS · Bootstrap<br>
+Estructura y estilos<br>
+Interfaces adaptables
+</p>
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-### 🌱 En aprendizaje
+<h3>🌱 En aprendizaje</h3>
 
-<img src="https://skillicons.dev/icons?i=react,vite,js&theme=dark" alt="React, Vite y JavaScript" />
+<img
+  src="https://skillicons.dev/icons?i=react,vite,js&theme=dark"
+  height="48"
+  alt="React, Vite y JavaScript"
+/>
 
-<br><br>
-
-React · Vite · JavaScript  
-Integración de interfaces con servicios
+<p>
+React · Vite · JavaScript<br>
+Integración de interfaces<br>
+con servicios backend
+</p>
 
 </td>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-### 🧰 Control de versiones
+<h3>🧰 Control de versiones</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git y GitHub" />
+<img
+  src="https://skillicons.dev/icons?i=git,github&theme=dark"
+  height="48"
+  alt="Git y GitHub"
+/>
 
-<br><br>
-
-Git · GitHub  
-Historial de cambios y documentación
+<p>
+Git · GitHub<br>
+Historial de cambios<br>
+Organización y documentación
+</p>
 
 </td>
 </tr>
@@ -134,34 +162,40 @@ Historial de cambios y documentación
 
 <br>
 
-<!-- ENFOQUE -->
+<!-- OBJETIVOS -->
 
 ## ✦ Lo que quiero construir
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 🌐 Experiencias web
+<h3>🌐 Experiencias web</h3>
 
-Interfaces claras,  
+<p>
+Interfaces claras,<br>
 ordenadas y fáciles de usar.
+</p>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 🔗 Aplicaciones conectadas
+<h3>🔗 Aplicaciones conectadas</h3>
 
-Frontend, APIs y datos  
+<p>
+Frontend, APIs y datos<br>
 trabajando juntos.
+</p>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 📚 Conocimiento compartido
+<h3>📚 Conocimiento compartido</h3>
 
-Documentar lo aprendido  
+<p>
+Documentar lo aprendido<br>
 y mostrar mi progreso.
+</p>
 
 </td>
 </tr>
@@ -172,7 +206,7 @@ y mostrar mi progreso.
 <!-- INFORMACIÓN ADICIONAL -->
 
 <details>
-<summary><b>💡 Un poco más sobre mi forma de aprender</b></summary>
+<summary><strong>💡 Un poco más sobre mi forma de aprender</strong></summary>
 
 <br>
 
@@ -185,9 +219,11 @@ y mostrar mi progreso.
 
 <br>
 
+<!-- CIERRE -->
+
 <div align="center">
 
-## Construir también es aprender.
+### Construir también es aprender.
 
 **Cada paso cuenta. Cada proyecto enseña.**
 
